@@ -1,0 +1,20 @@
+{
+    "IdRespuestaOK": "",
+    "IdPersonaOK": "",
+    "Respuestas": [{
+        "IdPreguntaOK": "",
+        "Respuesta": "",
+        "Valor": 0
+    }],
+    "Puntuacion": "",
+    "detail_row": {
+        "Activo": "S",
+        "Borrado": "N",
+        "detail_row_reg": [{
+            "FechaReg": {
+                "$date": "2022-04-04T00:00:00.628Z"
+            },
+            "UsuarioReg": "Gonzalo"
+        }]
+    }
+}
